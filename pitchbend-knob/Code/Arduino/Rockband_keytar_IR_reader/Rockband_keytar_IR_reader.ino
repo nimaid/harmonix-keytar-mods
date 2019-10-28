@@ -12,7 +12,7 @@ void setup()
  
 void loop()
 {
-  print_bin(get_ir_pot_value());
+  print_bin(get_ir_sensor_value());
 
   delay(100);
 }
